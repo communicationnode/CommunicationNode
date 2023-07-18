@@ -15,6 +15,7 @@
 | Языки разработки | C#, C++ |
 | Среды разрабоки | Qt5, Visual Studio 2019, Unity, Clickteam Fusion 2.5 |
 | Сетевые протоколы | TCP, UDP |
+| Системы монетизации| AdMob, Yandex Mobile Unity Ads SDK |
 </details>
 
 <details><summary> :art: Мой профиль SketchFab. Храню свои 3д модели под лицензией CC 3.0 Share Alike. </summary>
