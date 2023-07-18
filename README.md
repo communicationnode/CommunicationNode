@@ -1,12 +1,30 @@
-### Инди-разработчик игр на движках CTF2.5 и Unity 👋
+## Привет, солнце!
 
-С гитхабом знаком на момент 18 июля 2023 очень поверхностно, но мне нравится этот инструмент.
-![](images/png/abzats.png)
-#### Мой профиль SketchFab. Храню свои 3д модели под лицензией CC 3.0 Share Alike.
-![](images/png/sketchfab.png)
-![](images/png/abzats.png)
-#### Мой профиль Play Market. Храню свои наиболее удачные и коммерческие проекты.
-![](images/png/playmarket.png)
-![](images/png/abzats.png)
-#### Мой профиль GameJolt. Храню свои любимые проекты.
-![](images/png/gamejolt.png)
+#### Занимаюсь разработкой PC, Android проектов с 2016 года. </br>
+<details><summary> :memo: Мои предпочтения </summary>
+
+|Предмет|Предпочтение|
+|-|-|
+| Операционные системы |Windows 11, Arch Linux, Mint, Manjaro |
+| Графика |Blender 3D, Photoshop CS6, Aseprite |
+| Видео | Premiere Pro, Any Video Converter |
+| Языки разработки | C#, C++ |
+| Среды разрабоки | Qt5, Visual Studio 2019, Unity, Clickteam Fusion 2.5 |
+| Сетевые протоколы | TCP, UDP |
+</details>
+
+<details><summary> :art: Мой профиль SketchFab. Храню свои 3д модели под лицензией CC 3.0 Share Alike. </summary>
+
+![My SketchFab account](images/png/sketchfab.png)  
+</details>
+
+
+<details><summary> :skull: Мой профиль Play Market. Храню свои наиболее удачные и коммерческие проекты.</summary>
+  
+![My PlayMarket account](images/png/playmarket.png)
+</details>
+  
+<details><summary> :game_die: Мой профиль GameJolt. Храню свои любимые проекты.</summary>
+  
+![My GameJolt account](images/png/gamejolt.png)
+</details>
