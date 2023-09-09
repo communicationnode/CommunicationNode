@@ -17,7 +17,7 @@
 | Графика |Blender 3D, Photoshop CS6, Aseprite |
 | Видео | Premiere Pro, Any Video Converter |
 | Языки разработки | C#, C++ |
-| Среды разрабоки | Qt5, Visual Studio 2019, Unity, Clickteam Fusion 2.5 |
+| Среды разрабоки | Code::Blocks, Visual Studio 2019, Unity, Clickteam Fusion 2.5 |
 | Сетевые протоколы | TCP, UDP |
 | Системы монетизации | AdMob, Yandex Mobile Unity Ads SDK |
 </details>
@@ -74,7 +74,7 @@
 | Graphic |Blender 3D, Photoshop CS6, Aseprite |
 | Video | Premiere Pro, Any Video Converter |
 | Languages | C#, C++ |
-| IDE | Qt5, Visual Studio 2019, Unity, Clickteam Fusion 2.5 |
+| IDE | Code::Blocks, Visual Studio 2019, Unity, Clickteam Fusion 2.5 |
 | Network Protocols | TCP, UDP |
 | Monetization systems | AdMob, Yandex Mobile Unity Ads SDK |
 </details>
