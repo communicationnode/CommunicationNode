@@ -1,8 +1,8 @@
 <!---▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ comment line ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒--->
 
 <details><summary>:page_with_curl: (RUS) localization :page_with_curl:</summary>
-  
-## Привет, солнце!
+
+## ![Title from 2019](images/gif/emj-lol4k.gif) Привет, солнце!
 #### Занимаюсь разработкой PC, Android проектов с 2016 года. </br>
 
 > Изначально релизы моих проектов были на GameJolt и PlayMarket, но сейчас активно изучаю GitHub </br>
@@ -59,7 +59,7 @@
 
 <details><summary>:page_with_curl: (ENG) localization :page_with_curl:</summary>
   
-## Hi sunshine!
+## ![Title from 2019](images/gif/emj-lol4k.gif) Hi sunshine!
 #### I have been developing PC, Android projects since 2016. </br>
 
 > Initially, the releases of my projects were on GameJolt and PlayMarket, but now I am actively studying GitHub </br>
