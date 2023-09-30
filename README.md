@@ -2,7 +2,7 @@
 
 <details><summary>:page_with_curl: (RUS) localization :page_with_curl:</summary>
   
-![Title from 2019](images/gif/emj-lol4k.gif)
+![Title from 2019](images/png/icon.png)
 ## Привет, солнце!
 #### Занимаюсь разработкой PC, Android проектов с 2016 года. </br>
 
@@ -60,7 +60,7 @@
 
 <details><summary>:page_with_curl: (ENG) localization :page_with_curl:</summary>
   
-![Title from 2019](images/gif/emj-lol4k.gif)
+![Title from 2019](images/png/icon.png)
 ## Hi sunshine!
 #### I have been developing PC, Android projects since 2016. </br>
 
@@ -118,7 +118,7 @@
 
 ----------------------
 
-![Title from 2019](images/gif/title.gif)</br>
+![Title from 2019](images/gif/tag-2023-update.gif)</br>
 
 ----------------------
 
