@@ -21,8 +21,8 @@
 <summary> :skull: My Play Market profile. I keep my most successful and commercial projects.</summary>
   
 # My favorite projects:
-- [SCP - Viewer (682 315 downloads)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8sMybupiAAxVYJxAIHZzICpsQFnoECB0QAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.urodengine.scpviewer%26hl%3Dru%26gl%3DUS&usg=AOvVaw3dIhGziy601W9X7UqT9kQW&opi=89978449)
-- [SCP - Viewer 2 (206 841 downloads)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8sMybupiAAxVYJxAIHZzICpsQFnoECCEQAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.URODEngine.SCPViewer2%26hl%3Dru%26gl%3DUS&usg=AOvVaw02A9soGusL_Yfq4SPdHk5W&opi=89978449)
+- [SCP - Viewer (682 315 downloads)](https://play.google.com/store/apps/details?id=com.urodengine.scpviewer&hl=ru&gl=US)
+- [SCP - Viewer 2 (206 841 downloads)](https://play.google.com/store/apps/details?id=com.URODEngine.SCPViewer2&hl=ru&gl=US)
   
 ![My PlayMarket account](images/png/playmarket.png)
 
