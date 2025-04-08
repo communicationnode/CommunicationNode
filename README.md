@@ -15,10 +15,7 @@
 My [SketchFab](https://sketchfab.com/Starven38/models). The original 3D models that ready for games solutions here; </br>
 My [GameJolt](https://gamejolt.com/@CommunicationNode). The idk it shit games i've created in past is here; </br>
 My [Play Market](https://play.google.com/store/apps/dev?id=4806053180322862173). The best of my commercial indie projects is here; </br>
-
 ![mainpage](images/png/mainpage.png) 
-
-
 
 # My contacts.
 :mailbox_with_mail: ```My email:``` starven38@bk.ru :mailbox_with_mail:
