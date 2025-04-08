@@ -1,6 +1,6 @@
 <!---▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ comment line ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒--->
 
-# Добро пожаловать!
+# Hello there!
 💀 My name is not matter as usual and I'm a Indie game developer. I have more than 5 years of experience in program solutions like a Unity, Unreal Engine, Blender, Adobe solutions, and etc. </br>
 💀 I prefer to use C# as main language, JavaScript as additional (Jint and same), sometimes i use C and C++ for Arduino solutions. </br>
 💀 I like to grow my professional skills and beer. </br>
