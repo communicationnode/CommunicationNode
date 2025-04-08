@@ -3,16 +3,13 @@
 ## Hello there :)
 #### I have been developing PC, Android projects since 2016. </br>
 
-> I post my work on GameJolt and Play Market. I store my source code and other stuff on GitHub. </br>
-
 ![asdasdasdasdasd](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=communicationnode&theme=2077)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=communicationnode&theme=2077) -->
 
 ----------------------
 
-
-
-
+i'm indie developer. My projects is published on GameJolt, Play Market and SketchFab.
+![mainpage](images/png/mainpage.png)
 
 <!---▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ comment line ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒--->
 
