@@ -8,7 +8,7 @@
 > [!NOTE]
 > The best of my sources i publish here
 
-![asdasdasdasdasd](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=communicationnode&theme=2077)
+![idk](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=communicationnode&theme=2077)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=communicationnode&theme=2077) -->
 
 # My projects preview.
@@ -18,6 +18,8 @@ My [Play Market](https://play.google.com/store/apps/dev?id=4806053180322862173).
 ![mainpage](images/png/mainpage.png) 
 
 # My contacts.
-![XB](images/png/coolskull.png)
+<div align="center"><img src="images/png/coolskull.png"/></div>
 
-:mailbox_with_mail: ```My email:``` starven38@bk.ru :mailbox_with_mail:
+<div align="center">
+:mailbox_with_mail: My email: <a href="starven38@bk.ru"> starven38@bk.ru </a> :mailbox_with_mail:
+</div>
