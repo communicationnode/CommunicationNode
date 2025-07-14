@@ -12,9 +12,14 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=communicationnode&theme=2077) -->
 
 # My projects preview.
-My [SketchFab](https://sketchfab.com/Starven38/models). The original 3D models that ready for games solutions here; </br>
-My [GameJolt](https://gamejolt.com/@CommunicationNode). The idk it shit games i've created in past is here; </br>
-My [Play Market](https://play.google.com/store/apps/dev?id=4806053180322862173). The best of my commercial indie projects is here; </br>
+<ul align="left">
+
+<li>My <a href="https://gamejolt.com/@CommunicationNode">GameJolt</a>. The idk it shit games i've created in past is here; </br>
+<li>My <a href="https://play.google.com/store/apps/dev?id=4806053180322862173">Play Market</a>. The best of my commercial indie projects is here; </br>
+<li>My <a href="https://sketchfab.com/Starven38/models">SketchFab</a>. The original 3D models that ready for games solutions here; </br>
+
+</ul> 
+
 ![mainpage](images/png/mainpage.png) 
 
 # My contacts.
