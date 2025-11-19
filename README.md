@@ -29,8 +29,6 @@ I'm 23 years old and work in application development. My interests revolve aroun
 
 </details>
 
-
-
 # My contacts.
 <div align="center"><img src="images/png/smile.png" width="64"/></div>
 
