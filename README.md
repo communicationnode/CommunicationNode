@@ -14,7 +14,7 @@ I'm 23 years old and work in application development. My interests revolve aroun
 
 #### <img src="images/png/smile.png" width="12"/> Platforms I work with:
 
-<img src="images\png\publishplatforms\windows.png" alt="windows" width="32" /> <img src="images\png\publishplatforms\android.png" alt="android" width="32" /> <img src="images\png\publishplatforms\linux.png" alt="linux" width="32" />
+<img src="images\svg\platforms\LinuxOS.svg" alt="LinuxOS" height="32" /> <img src="images\svg\platforms\Windows11.svg" alt="Windows" height="32" /> <img src="images\svg\platforms\AndroidOS.svg" alt="linux" height="32" />
 
 ------
 
