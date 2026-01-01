@@ -8,7 +8,7 @@ I'm 23 years old and work in application development. My interests revolve aroun
 
 #### <img src="images/png/smile.png" width="12"/> My default stack:
 
-<img src="images\png\tools\arduino.png" alt="arduino" width="32" /> <img src="images\png\tools\putty.png" alt="putty" width="32" /> <img src="images\png\tools\blender.png" alt="blender" width="32" /> <img src="images\png\tools\csharp.png" alt="csharp" width="32" /> <img src="images\png\tools\netcore.png" alt="netcore" width="32" /> <img src="images\png\tools\visualstudio.png" alt="visualstudio" width="32" /> <img src="images\png\tools\unity.png" alt="unity" width="32" /> <img src="images\png\tools\unreal.png" alt="unreal" width="32" />
+<img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\AfterEffects.svg" alt="AfterEffects" height="32"><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\Arduino.svg" alt="Arduino" height="32" /><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\Blender-Dark.svg" alt="Blender-Dark" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\CMake-Dark.svg" alt="CMake-Dark" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\CS.svg" alt="CS" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\CPP.svg" alt="CPP" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\JavaScript.svg" alt="JS" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\DotNet.svg" alt="DotNet" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\Github-Dark.svg" alt="Github-Dark" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\Unity-Dark.svg" alt="Unity-Dark" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\UnrealEngine.svg" alt="UnrealEngine" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\VisualStudio-Dark.svg" alt="VisualStudio-Dark" height="32"/><img src="C:\Users\TailerDerden\Desktop\CommunicationNode\images\svg\VSCode-Dark.svg" alt="VSCode-Dark" height="32"/>
 
 ------
 
@@ -41,7 +41,7 @@ preview:
 
 
 #### <img src="images/png/smile.png" width="12"/> My contacts.
-<div align="center"><img src="images/png/email.png" width="32"/></div>
+<div align="center"><img src="images/svg/Gmail-Light.svg" width="48"/></div>
 
 <div align="center">
 :mailbox_with_mail: My email: <a href="starven38@bk.ru"> starven38@bk.ru </a> :mailbox_with_mail:
